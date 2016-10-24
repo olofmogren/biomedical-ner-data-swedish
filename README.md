@@ -2,6 +2,35 @@
 
 Data comes from Swedish Wikipedia, Läkartidningen, and 1177.se.
 
+## Information
+
+### Authors
+
+* Simon Almgren, simonwalmgren@gmail.com
+* Sean Pavlov, sean.pavlov@gmail.com
+* Olof Mogren, olof@mogren.one
+
+Chalmers University of Techbology
+
+### Citing this work
+
+To cite this work, use the following:
+
+@inproceedings{almgrenpavlovmogren2016bioner,
+ title="Named Entity Recognition in Swedish Medical Journals with Deep Bidirectional Character-Based LSTMs",
+ author="Simon Almgren, Sean Pavlov, Olof Mogren",
+ booktitle="Proceedings of the Fifth Workshop on Building and Evaluating Resources for Biomedical Text Mining (BioTxtM 2016)",
+ pages="1",
+ year="2016"  
+}
+
+
+### License
+
+This work is shared under the Attribution-ShareAlike 4.0 International
+license. See http://creativecommons.org/licenses/by-sa/4.0/ for details.
+
+
 ## Swedish Wikipedia
 
   Pages were downloaded and then automatically annotated by finding
@@ -88,14 +117,5 @@ Tags are as follows:
 * Prenthesis, (): Disorder and Finding
 * Brackets, []: Pharmaceutical Drug
 * Curly brackets, {}: Body Structure
-
-# License
-
-This work is shared under the Attribution-ShareAlike 4.0 International
-license. See http://creativecommons.org/licenses/by-sa/4.0/ for details.
-
-# Information
-
-Authors, affiliation, email, and how to cite this will be provided after review process of the paper.
 
 
