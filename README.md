@@ -2,9 +2,8 @@
 
 Data comes from Swedish Wikipedia, Läkartidningen, and 1177.se.
 
-## Information
 
-### Authors
+## Authors
 
 * Simon Almgren, simonwalmgren@gmail.com
 * Sean Pavlov, sean.pavlov@gmail.com
@@ -12,9 +11,9 @@ Data comes from Swedish Wikipedia, Läkartidningen, and 1177.se.
 
 Chalmers University of Techbology
 
-### Citing this work
+## Citing this work
 
-To cite this work, use the following:
+If you are using this work, please cite the following:
 
 @inproceedings{almgrenpavlovmogren2016bioner,
  title="Named Entity Recognition in Swedish Medical Journals with Deep Bidirectional Character-Based LSTMs",
